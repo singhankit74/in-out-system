@@ -1,7 +1,9 @@
 {
   "name": "Hostel In-Out System",
   "short_name": "InOut",
+  "description": "A digital in-out management system for hostel students to record and monitor entry/exit.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4F46E5",
